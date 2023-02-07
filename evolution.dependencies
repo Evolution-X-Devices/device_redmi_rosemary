@@ -1,20 +1,11 @@
 [
   {
-    "repository": "windowz414/evox_kernel_redmi_rosemary",
+    "repository": "kernel_redmi_rosemary",
     "target_path": "kernel/redmi/rosemary",
-    "branch": "tiramisu"
   },
   {
     "repository": "vendor_redmi_rosemary",
     "target_path": "vendor/redmi/rosemary",
-    "branch": "thirteen",
-    "remote": "pixel-devices-blobs"
-  },
-  {
-    "repository": "vendor_redmi_rosemary-firmware",
-    "target_path": "vendor/redmi/rosemary-firmware",
-    "branch": "thirteen",
-    "remote": "pixel-devices-blobs"
   },
   {
     "repository": "PixelExperience/vendor_mediatek-opensource",
