@@ -1,11 +1,11 @@
 [
   {
     "repository": "kernel_redmi_rosemary",
-    "target_path": "kernel/redmi/rosemary",
+    "target_path": "kernel/redmi/rosemary"
   },
   {
     "repository": "vendor_redmi_rosemary",
-    "target_path": "vendor/redmi/rosemary",
+    "target_path": "vendor/redmi/rosemary"
   },
   {
     "repository": "PixelExperience/vendor_mediatek-opensource",
