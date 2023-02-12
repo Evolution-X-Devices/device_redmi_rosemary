@@ -23,6 +23,7 @@ $(call inherit-product, $(LOCAL_PATH)/device.mk)
 
 # Common PE configs
 $(call inherit-product, vendor/evolution/config/common_full_phone.mk)
+TARGET_ENABLE_BLUR := true
 TARGET_SUPPORTS_GOOGLE_RECORDER := true
 TARGET_INCLUDE_STOCK_ARCORE := true
 TARGET_INCLUDE_LIVE_WALLPAPERS := true
