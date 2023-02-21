@@ -28,11 +28,6 @@
     "branch": "thirteen"
   },
   {
-    "repository": "PixelExperience/prebuilts_clang_kernel_linux-x86_clang-r416183b",
-    "target_path": "prebuilts/clang/kernel/linux-x86/clang-r416183b",
-    "branch": "thirteen"
-  },
-  {
     "repository": "ProjectKasumi/vendor_gcgop",
     "target_path": "vendor/gcgop",
     "branch": "kasumi-v2"
